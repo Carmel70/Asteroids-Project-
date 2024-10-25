@@ -1,1 +1,1 @@
-Simple asteroids game with a creative theme switch!
+Simple asteroids game with a creative stylistic change!
